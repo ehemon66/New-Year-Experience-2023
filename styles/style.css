@@ -53,3 +53,69 @@
     margin-bottom: 20px;
     font-weight: bolder;
 }
+
+
+/* My failures part style */
+
+
+.failures-container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+
+}
+
+.failures-detlis {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.failures-title {
+    font-size: 50px;
+
+}
+
+.failures-description {
+    font-size: 20px;
+    margin: 30px 0;
+}
+
+.filures-item {
+    font-size: 16px;
+    margin: 5px;
+}
+
+
+/* My Plans style */
+
+.my-plan-container {
+    margin: 100px 0;
+}
+
+.plan-title {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 35px;
+}
+
+.plan-items {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.item {
+    text-align: center;
+}
+
+.item h3 {
+    font-size: 25px;
+}
+
+.item p {
+    font-size: 18px;
+}
