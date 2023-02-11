@@ -1,4 +1,4 @@
-
+/* Common style  */
 
 
 
@@ -145,7 +145,7 @@
 
 
 .new-section{
-    background-color: #737272c9;
+    background-color: #a2a1a1d1;
 
     height: 300px;
 }
@@ -183,4 +183,52 @@
 .pm-title {
     margin: 10px 0;
     color: white;
+}
+
+/* footer part style  */
+
+
+/* footer part  style */
+
+.footer-container {
+    margin-top: 80px;
+
+}
+
+.footer-co {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #05050e;
+
+}
+
+.footer-detail {
+    margin: 80px;
+    color: white;
+    padding: 15px;
+
+}
+
+.f-d-title {
+    margin: 10px 0;
+}
+
+.f-d-description {
+    margin: 10px 0;
+}
+
+.footer-form {
+    margin: 100px;
+    color: white;
+    padding: 15px;
+}
+
+.f-f-title {
+    margin: 12px 0;
+}
+
+#i-field {
+    height: 35px;
+    margin: 20px 0;
 }
