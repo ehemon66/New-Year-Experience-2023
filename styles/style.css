@@ -1,5 +1,25 @@
 
 
+
+
+.text-center{
+    text-align: center;
+    }
+
+.fs-1{
+    font-size: 3em;
+}
+
+.fs-2{
+    font-size: 3em;
+}
+
+.fs-3{
+    font-size: 30px;
+}
+
+
+
 /* button style  */
 
 .btn-white {
@@ -118,4 +138,49 @@
 
 .item p {
     font-size: 18px;
+}
+
+
+/* new section style  */
+
+
+.new-section{
+    background-color: #737272c9;
+
+    height: 300px;
+}
+
+
+.ex-items{
+    display: flex;
+
+    justify-content: space-around;
+}
+
+
+
+/* <!-- Awlays keep a positive mindset part style --> */
+
+.positive-mindset {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.pm-detail {
+    border-radius: 10px;
+    width: 800px;
+    height: 150px;
+    padding: 15px;
+    background-image: linear-gradient(#4027c0e6, #ffffff85), url("../images/watch.png");
+}
+
+
+.pm-title {
+    margin: 10px 0;
+    color: white;
 }
